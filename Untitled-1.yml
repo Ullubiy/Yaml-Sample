@@ -1,0 +1,63 @@
+Dream:
+  1-st department:
+    employees:
+      employee1:
+        name: Olya
+        count: 4
+        proffession: accounting
+      employee2:
+        name: Dmitrii
+        count: 3
+        proffession: accounting
+        employee3:
+        name: Ivan
+        count: 2
+  2-nd department:
+    employees:
+      employee1:
+        name: Roman
+        count: 4
+        proffession: lawyer
+        age: less 30
+      employee2:
+      name: Maksim
+      count: 2
+      proffession: driver
+      age: less 30
+  3-rd department:
+    employees:
+      employee1:
+        name: Olya
+        count: 1
+        proffession: lawyer
+      employee2:
+        name: Ivan
+        count: 1
+        proffession: builder 
+      employee3:
+        name: Nikolai
+        count: 1
+        proffession: builder
+  4-th department:
+    5-th department:
+      employees:
+        employee1:
+          name: Julia
+          count: 5
+          age: more 30
+          proffession: paperwork
+        employee2:
+          name: Dmitrii
+          count: 3
+          proffession: accounting
+          employee3:
+          name: Ivan
+          count: 2
+          age:  more 65
+    6-th department:
+     employees:
+      employee1:
+        name: Igor Viktorovich
+        count: 1
+        proffession: security director
+        age: more 50
